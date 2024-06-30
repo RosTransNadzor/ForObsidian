@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "a3c3f148cb2a7843",
+    "type": "split",
+    "children": [
+      {
+        "id": "24bfd7aecb34952f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f158d72ffdd5af81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skils.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f08ce045e3d43c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "5376ccd942cd62e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501d244861661dc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc09c96a43d82c95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#include",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b7ac039c2a38c2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c67c6439573d4bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bd66ebb6e43744d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ba3f4bdfa6a9b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Skils.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f803666710ff30d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skils.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdf313cc14bf69d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4199aaf5019caf9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Skils.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f158d72ffdd5af81",
+  "lastOpenFiles": [
+    "CSharp/Память/3 Глава - Измерения памяти.md",
+    "Операционные системы/2 Глава/Sub/2.2 Потоки.md",
+    "Операционные системы/2 Глава/2 Глава - Процессы и потоки.md",
+    "Операционные системы/OC.md",
+    "CSharp/Память/Общее.md",
+    "Компьютерные сети/Общее.md",
+    "CSharp/Память/2 Глава - Низкоуровневое управление памятью.md",
+    "CSharp/Память/1 Глава - Основные понятия.md",
+    "Операционные системы/2 Глава/Sub/2.1 Процессы.md",
+    "CSharp/Rikhter/4 Основы типов.md",
+    "CSharp/Rikhter/5 Примитивные,ссылочные значимые типы.md",
+    "Операционные системы/1 Глава/Sub/1.4 Зоопарк операционных систем.md",
+    "CSharp/EF core/Без названия.md",
+    "Операционные системы/1 Глава/Sub/1.5 Понятия операционной системы.md",
+    "Операционные системы/1 Глава/Sub/1.3 Аппаратное обеспечение.md",
+    "Операционные системы/2 Глава/Sub",
+    "Операционные системы/1 Глава/1 Глава - Введение.md",
+    "Операционные системы/1 Глава/Sub/Язык C.md",
+    "Операционные системы/2 Глава",
+    "Операционные системы/1 Глава/Sub/1.7 Cтруктура операционной системы.md",
+    "CSharp/Rikhter/Глава 7-8. Константы и поля и Методы.md",
+    "CSharp/Static Lamda.md",
+    "CSharp/Массивы.md",
+    "CSharp/Ссыочные типы и ref.md",
+    "CSharp/Tuples.md",
+    "CSharp/Csharp.md",
+    "CSharp/Rikhter/Книга CLR via Csharp.md",
+    "CSharp/Rikhter/Глава 6. Основные сведения о членах и типах.md",
+    "src/2024-06-14_09-58-44.png",
+    "src/2024-06-13_18-30-03.png",
+    "src/2024-06-13_18-30-20.png",
+    "src/2024-06-13_18-29-47.png",
+    "src/2024-06-13_18-29-27.png",
+    "src/2024-05-28_07-38-51.png",
+    "src/2024-06-13_18-29-16.png",
+    "src/2024-05-25_23-39-07.png",
+    "src/2024-05-19_09-24-49.png",
+    "src/2024-04-15_23-11-23.png",
+    "CSharp/Rikhter",
+    "Алгоритмы",
+    "CSharp/Unit тестирование",
+    "C#/Blazor/Без названия",
+    "CSharp/Blazor",
+    "CSharp/EF core",
+    "Операционные системы/1 Глава/Sub",
+    "Компьютерные сети/Глава 1 Введение/Sub"
+  ]
+}

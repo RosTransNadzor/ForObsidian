@@ -1,0 +1,75 @@
+- [ ] C#
+	- [ ] Value vs Reference types
+	- [ ] Async/Await
+		- [ ] ValueTask
+	- [ ] Threads ThreadPool
+		- [ ] Default versions vs Slim
+		- [ ] Thread Safety/Synchronization Primitives
+	- [ ] LINQ
+	- [ ] Using
+	- [ ] Garbage Collector
+	- [ ] Concurency/Immutable Collections
+	- [ ] StringBuilder
+	- [ ] Entity Framework Core
+		- [ ] IQureable vs IEnumerable
+		- [ ] Materialized View
+	- [ ] yield return/yield break
+	- [ ] Abstract class vs Interface
+- [ ] PostgreSQL
+	- [ ] ACID vs BASE
+	- [ ] OLAP vs OLTP
+	- [ ] SQL vs NoSQL
+	- [ ] SQL
+		- [ ] DDL DML DCL TCL
+		- [ ] Join / Where
+		- [ ] Group by / Having
+	- [ ] Indexes
+		- [ ] Btree | Hash | Gist | SP_Gist 
+		- [ ] Covered | Multicolumn | Partial
+	- [ ] Isolation Levels
+		- [ ] Levels
+		- [ ] Problems
+	- [ ] Normalization levels
+	- [ ] Query Plan
+		- [ ] Optimizations
+	- [ ] Scaling
+		- [ ] Sharding 
+		- [ ] Partitition
+		- [ ] Replication
+	- [ ] Optimizations 
+- [ ] Architecture
+	- [ ] Async vs Sync
+	- [ ] Coupling vs Cohesion
+	- [ ] Monolith vs Microservices
+	- [ ] DDD
+	- [ ] Styles
+		- [ ] Clean Architecture
+		- [ ] Onion Architecture
+		- [ ] Heghagonal Architecture
+	- [ ] Stability Patterns
+		- [ ] Retry
+		- [ ] Rate Limmiter
+		- [ ] Circuit Breaker
+	- [ ] Idempotency key
+	- [ ] 2 Phase commit
+	- [ ] EDA vs MDA
+		- [ ] Event Driven Architecture
+			- [ ] Saga
+				- [ ] Orchestration vs Choreography
+			- [ ] Event Sourcing
+			- [ ] CQRS
+	- [ ] Monitoring
+	- [ ] Api Gateway
+	- [ ] Authorization/ Authentication
+	- [ ] API
+		- [ ] REST
+		- [ ] GraphQL
+		- [ ] Grpc
+	- [ ] Transactional Outbox Pattern
+	- [ ] Delivery Guaranties
+	- [ ] Message Ordering
+- [ ] Common
+	- [ ] SOLID
+    - [ ] HTTP 
+    - [ ] Alghoritms
+    - [ ] Cashe
