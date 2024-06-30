@@ -1,0 +1,2 @@
+- [[Algoritms]]
+- [[AlgoritmsAndStructures/Structures/Structures|Structures]]

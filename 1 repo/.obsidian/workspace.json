@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "4065974211d78571",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8b5c10fdc421ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5cc6bba163e75fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Asp net core/Конфигурация/Подключение поставщиков.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c50b8bf8ed3e58fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "19ee5dc1cefcb3e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f60a0b0bd8280794",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "901f639249e2666f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Http",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2818ac98db27773b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "7db47876cd59da54",
+    "type": "split",
+    "children": [
+      {
+        "id": "f08eb0fc8cf23204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3236e2cefe795020",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Csharp/Asp net core/Конфигурация/Подключение поставщиков.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93eb19bfcebc96ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Csharp/Asp net core/Конфигурация/Подключение поставщиков.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83379354979cab64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01cf8622b2ad6131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Csharp/Asp net core/Конфигурация/Подключение поставщиков.md"
+              }
+            }
+          },
+          {
+            "id": "67ec9cfca95ced39",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f5cc6bba163e75fa",
+  "lastOpenFiles": [
+    "Csharp/Asp net core/Конфигурация/Настройка различных окружений.md",
+    "Csharp/Asp net core/Конфигурация/Конфигурация.md",
+    "Csharp/Asp net core/Конфигурация/Теория (конфигурация).md",
+    "Csharp/EF Core/Настройка/Настройка Ef Core.md",
+    "Csharp/EF Core/Entity Framework.md",
+    "Csharp/EF Core/DbContext.md",
+    "Csharp/EF Core/Настройка/Data Annotations/Data Annotations.md",
+    "Csharp/EF Core/Фильтры запросов.md",
+    "Csharp/EF Core/Приемы записи данных(удаление).md",
+    "Csharp/EF Core/Особые Linq.md",
+    "Csharp/EF Core/Модели базы данных.md",
+    "Csharp/Asp net core/EF core/Создание представления и контекста.md",
+    "Csharp/Asp net core/EF core/EF core in Asp net.md",
+    "Csharp/Asp net core/Auth/Email.md",
+    "Csharp/EF Core/Вычисления не в базе данных.md",
+    "Csharp/EF Core/Конструкторы.md",
+    "Csharp/Asp net core/Конфигурация/Подключение поставщиков.md",
+    "Csharp/Asp net core/Конфигурация/Хранение секретов.md",
+    "Csharp/Asp net core/Конфигурация/POCO классы в конфигурации.md",
+    "Csharp/Asp net core/Auth/JWT.md",
+    "Csharp/Asp net core/Auth/Аттрибуты и политики Авторизации.md",
+    "Csharp/Asp net core/Auth/OAuth/OAuth.md",
+    "Csharp/HttpClient/Asp net with HttpClient.md",
+    "Csharp/HttpClient/HTTPClient.md",
+    "Csharp/HttpClient/Отправка запросов.md",
+    "Csharp/Asp net core/HttpClient/HttpClient запросы.md",
+    "Csharp/OOP/Interface",
+    "Operations Systems",
+    "Csharp/Source Generators",
+    "Csharp/Blazor/Blazor WASM/Без названия",
+    "Csharp/Blazor/Blazor WASM",
+    "Csharp/Blazor/Blazor Server",
+    "Csharp/Blazor",
+    "Csharp/Asp net core/Unit тестирование",
+    "Csharp/Asp net core/Auth/OAuth",
+    "src/structure.png",
+    "FronteEnd/Nest",
+    "Pasted image 20231126153502.png",
+    "src/node processes.png",
+    "src/concurrent.png",
+    "src/разбиение.png",
+    "src/2023-11-15_09-46-28.png",
+    "src/tpt1.png",
+    "src/tpt2.png",
+    "src/tpt3.png",
+    "src/данныеживотных.png",
+    "Без названия 1.canvas",
+    "Без названия.canvas"
+  ]
+}

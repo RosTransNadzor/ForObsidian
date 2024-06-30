@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Csharp/EF Core\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Csharp/Asp net core\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.506920415224914,
+  "repelStrength": 11.1764705882353,
+  "linkStrength": 0.413494809688581,
+  "linkDistance": 278,
+  "scale": 0.09848280266864327,
+  "close": true
+}
